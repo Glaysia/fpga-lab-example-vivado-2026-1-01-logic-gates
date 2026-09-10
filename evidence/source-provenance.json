@@ -1,0 +1,21 @@
+{
+  "template_commit": "a248b802aa2dec8def8caaf5175f12fc005f8f5c",
+  "course_project": "vivado_2026_1/01_logic_gates",
+  "top": "logic_gate",
+  "part": "xc7s75fgga484-1",
+  "constraints": "constraints/logic_gate.xdc",
+  "files": {
+    "src/logic_gate.v": {
+      "course_source": "example/fpga_projects_hdl/LAB1/common/rtl/logic_gate.v",
+      "sha256": "e3cbd3a7219ecd100f49ced79059e76f89d0670d03ecc442f82e2bc732494a3b"
+    },
+    "sim/tb_logic_gate_modern.sv": {
+      "course_source": "example/fpga_projects_hdl/LAB1/common/tb/tb_logic_gate_modern.sv",
+      "sha256": "8815d26ae87ee452a7cec9e99d54cab62ab72d35ec1e090e3af6afc154ffb232"
+    },
+    "constraints/logic_gate.xdc": {
+      "course_source": "example/fpga_projects_hdl/LAB1/common/constraints/logic_gate.xdc",
+      "sha256": "2e5671a832643a1755be7dcd935ab3ad615f4a09a20f1703db6af009d2c7e263"
+    }
+  }
+}

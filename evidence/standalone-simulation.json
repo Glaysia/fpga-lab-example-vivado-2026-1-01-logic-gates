@@ -1,0 +1,11 @@
+{
+  "status": "SIMULATED",
+  "run": "run-ec106a19c8ff4ba79aff31f95c665647",
+  "functional_correctness": "NOT_ASSESSED",
+  "inputs_sha256": {
+    "simulation.json": "3248b9b6eb85a1ef325c57cc4b28d887308ddfc00c9508f48746f5b52f0da8a7",
+    "src/logic_gate.v": "e3cbd3a7219ecd100f49ced79059e76f89d0670d03ecc442f82e2bc732494a3b",
+    "sim/tb_logic_gate_modern.sv": "8815d26ae87ee452a7cec9e99d54cab62ab72d35ec1e090e3af6afc154ffb232"
+  },
+  "wave_sha256": "c606bfd3522ef941a7239f8fd52588fbfc8ecca20ecb99fcdfd11f0ee1e90abb"
+}
